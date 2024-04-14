@@ -7,9 +7,9 @@
         </div>
         <div class="flex-none">
           <ul class="menu menu-horizontal px-1">
-            <li><a>Home</a></li>
-            <li><a>Projects</a></li>
-            <li><a>Work</a></li>
+            <li><a v-on:click="$router.push('/')">Home</a></li>
+            <li><a v-on:click="$router.push('/projects')">Projects</a></li>
+            <li><a v-on:click="$router.push('/work')">Work</a></li>
           </ul>
         </div>
       </div>

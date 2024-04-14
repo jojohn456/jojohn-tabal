@@ -2,9 +2,9 @@
   <q-page>
     <Navbar />
     <div class="row">
-      <div class="offset-lg-2 col-lg-8 mt-3" align="center">
-        <div class="avatar">
-          <div class="w-full max-w-[400px] rounded-full">
+      <div class="offset-lg-2 col-lg-8 mt-3">
+        <div class="avatar self-center">
+          <div class="max-w-[300px] rounded-full self-auto">
             <img src="/images/profile.jpg" />
           </div>
         </div>
@@ -38,17 +38,11 @@ import { defineComponent } from 'vue';
 import Navbar from '../components/Navbar.vue';
 
 export default defineComponent({
-  name: 'Index',
-  setup() {
-    console.log('Index');
-  },
+  name: 'IndexPage',
   components: { Navbar },
   props: {},
   data: function () {
     return {};
-  },
-  mounted() {
-    console.log('Index');
   },
   methods: {},
 });
