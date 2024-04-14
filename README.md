@@ -1,6 +1,6 @@
 # jojohn-tabal (jojohn-tabal)
 
-personal site
+personal website
 
 ## Install the dependencies
 ```bash

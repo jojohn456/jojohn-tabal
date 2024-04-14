@@ -1,6 +1,5 @@
 <template>
-  <q-layout style="min-height: 0px">
-    <Navbar />
+  <q-layout>
     <q-page-container>
       <router-view />
     </q-page-container>
@@ -9,10 +8,10 @@
 
 <script lang="ts">
 import { defineComponent } from 'vue';
-import Navbar from '../components/Navbar.vue';
+//import Navbar from '../components/Navbar.vue';
 
 export default defineComponent({
   name: 'MainLayout',
-  components: { Navbar },
+  components: {},
 });
 </script>
