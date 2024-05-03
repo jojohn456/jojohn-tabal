@@ -1,6 +1,6 @@
 <template>
   <q-layout>
-    <q-page-container>
+    <q-page-container class="container mx-auto">
       <router-view />
     </q-page-container>
   </q-layout>
