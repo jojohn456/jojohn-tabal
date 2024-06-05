@@ -3,7 +3,7 @@
     <Navbar />
     <div class="row">
       <div class="offset-lg-2 col-lg-3 w-full p-1">
-        <div class="card shadow-xl">
+        <div class="card shadow-xl h-[500px]">
           <figure>
             <img src="/images/profile.jpg" />
           </figure>
@@ -31,10 +31,90 @@
           </div>
         </div>
       </div>
-      <div class="col-lg-3 w-full p-1">
+      <div class="col-lg-5 w-full p-1">
+        <div class="card shadow-xl h-[500px]">
+          <p></p>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="offset-lg-2 col-lg-8 w-full p-1">
         <div class="card bg-100 shadow-xl">
           <div class="card-body">
             <h2 class="card-title">Tech Stack</h2>
+            <h4><strong>Backend</strong></h4>
+            <div class="flex-auto">
+              <img
+                class="pr-1"
+                src="/images/profile/laravel.png"
+                style="width: 64px; max-height: 64px; display: inline-block"
+              />
+              <img
+                class="pr-1"
+                src="/images/profile/expressjs.png"
+                style="width: 64px; max-height: 64px; display: inline-block"
+              />
+            </div>
+            <h4><strong>Frontend</strong></h4>
+            <div class="flex-auto">
+              <img
+                class="pr-1"
+                src="/images/profile/quasarjs.png"
+                style="
+                  width: fit-content;
+                  max-height: 64px;
+                  display: inline-block;
+                "
+              />
+              <img
+                class="pr-1"
+                src="/images/profile/vuejs.png"
+                style="
+                  width: fit-content;
+                  max-height: 64px;
+                  display: inline-block;
+                "
+              />
+            </div>
+            <h4><strong>Database</strong></h4>
+            <img
+              src="/images/profile/mariadb.png"
+              style="
+                width: fit-content;
+                max-height: 64px;
+                display: inline-block;
+              "
+            />
+            <h4><strong>Web Server</strong></h4>
+            <div class="flex-auto">
+              <img
+                class="pr-1"
+                src="/images/profile/digitalocean.png"
+                style="
+                  width: fit-content;
+                  max-height: 64px;
+                  display: inline-block;
+                "
+              />
+              <img
+                class="pr-1"
+                src="/images/profile/ubuntu.png"
+                style="
+                  width: fit-content;
+                  max-height: 64px;
+                  display: inline-block;
+                "
+              />
+              <img
+                class="pr-1"
+                src="/images/profile/nginx.png"
+                style="
+                  width: fit-content;
+                  max-height: 64px;
+                  display: inline-block;
+                "
+              />
+            </div>
           </div>
         </div>
       </div>
