@@ -92,7 +92,7 @@
                 src="/images/profile/digitalocean.png"
                 style="
                   width: fit-content;
-                  max-height: 64px;
+                  max-height: 80px;
                   display: inline-block;
                 "
               />
