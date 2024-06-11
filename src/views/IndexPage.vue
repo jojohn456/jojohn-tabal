@@ -37,11 +37,17 @@
         </div>
       </div>
       <div class="col-lg-5 w-full p-1">
-        <div class="card shadow-xl p-4 h-[500px]">
+        <div class="card shadow-xl p-5 h-[500px]">
           <h2 class="text-[20px] leading-none">
             <strong>About Me</strong>
           </h2>
-          <p class="mt-1">People call me John</p>
+          <p class="mt-1">
+            Hi, I'm John a web/application developer. I worked in a startup once
+            as a junior web developer before moving on to public service.
+            Eventually, I left that life as well and decided to take care of our
+            family business while doing freelancing at the side. I like learning
+            stuffs in general and have a passion of making things work.
+          </p>
         </div>
       </div>
     </div>
@@ -51,13 +57,13 @@
           <div class="card-body">
             <h2 class="card-title">Tech Stack</h2>
             <h4><strong>Programming Language</strong></h4>
-            <p>PHP, Javascript</p>
+            <p>PHP, Javascript, Kotlin (Learning)</p>
             <h4><strong>Backend</strong></h4>
             <p>ExpressJS, Laravel</p>
             <h4><strong>Frontend</strong></h4>
-            <p>JQuery + Bootstrap, QuasarJS + DaisyUI</p>
+            <p>JQuery + Bootstrap, QuasarJS + DaisyUI [HTML/CSS]</p>
             <h4><strong>Database</strong></h4>
-            <p>MariaDB</p>
+            <p>MariaDB, IndexedDB (DexieJS)</p>
             <h4><strong>Web Server</strong></h4>
             <p>Digital Ocean, Ubuntu, Nginx</p>
           </div>
