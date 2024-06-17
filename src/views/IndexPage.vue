@@ -46,7 +46,7 @@
             as a junior web developer before moving on to public service.
             Eventually, I left that life as well and decided to take care of our
             family business while doing freelancing at the side. I like learning
-            stuffs in general and have a passion of making things work.
+            stuffs in general and applying them in my work.
           </p>
         </div>
       </div>
@@ -66,6 +66,7 @@
             <p>MariaDB, IndexedDB (DexieJS)</p>
             <h4><strong>Web Server</strong></h4>
             <p>Digital Ocean, Ubuntu, Nginx</p>
+            <i className="icon bi-envelope"></i>
           </div>
         </div>
       </div>
@@ -75,6 +76,7 @@
 
 <style scoped>
 @import '../css/index.css';
+@import 'bootstrap-icons/font/bootstrap-icons.css';
 </style>
 
 <script lang="ts">
