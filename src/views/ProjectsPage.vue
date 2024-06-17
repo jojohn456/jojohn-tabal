@@ -1,10 +1,40 @@
 <template>
   <q-page>
     <Navbar />
+    <div class="row">
+      <div class="offset-lg-2 col-lg-8 mt-3" align="center">
+        <div class="col-lg-10 w-full">
+          <div class="card shadow-xl h-[200px]">
+            <div class="row">
+              <div class="col-12 p-5">
+                <h2 class="text-[24px] leading-[2.50rem]" align="left">
+                  <strong>Piggy</strong>
+                  &nbsp;<a
+                    href="https://github.com/jojohn456/piggy"
+                    target="_blank"
+                    ><i class="bi-github w-[20px]"></i
+                  ></a>
+                </h2>
+                <p class="p-0" align="left"><small>2024</small></p>
+                <p align="left">
+                  A piggery management mobile application. One of its
+                  functionality is managing sow timecycles of calculating when
+                  the mom pigs goes into heat, when to inject the vitamins and
+                  when it goes into labor (farrowing). It also notifies the user
+                  of the respective dates.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </q-page>
 </template>
 
-<style scoped></style>
+<style scoped>
+@import 'bootstrap-icons/font/bootstrap-icons.css';
+</style>
 
 <script lang="ts">
 import { defineComponent } from 'vue';

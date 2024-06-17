@@ -66,7 +66,6 @@
             <p>MariaDB, IndexedDB (DexieJS)</p>
             <h4><strong>Web Server</strong></h4>
             <p>Digital Ocean, Ubuntu, Nginx</p>
-            <i className="icon bi-envelope"></i>
           </div>
         </div>
       </div>
@@ -75,7 +74,6 @@
 </template>
 
 <style scoped>
-@import '../css/index.css';
 @import 'bootstrap-icons/font/bootstrap-icons.css';
 </style>
 

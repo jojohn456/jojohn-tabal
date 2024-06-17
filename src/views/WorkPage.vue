@@ -19,9 +19,9 @@
                 <p align="left">
                   A rubbish tracking mobile application that lets users pin
                   garbage locations and receive digital awards. This is a
-                  volunteer project that I worked on, mainly on the website side
+                  volunteer project that I worked on, mainly on the website UI
                   only. The page was initially made in react so I migrated it to
-                  vue and this is the result.
+                  vue while keeping the design.
                 </p>
               </div>
             </div>
@@ -95,7 +95,6 @@
 </template>
 
 <style scoped>
-@import '../css/index.css';
 @import 'bootstrap-icons/font/bootstrap-icons.css';
 </style>
 
