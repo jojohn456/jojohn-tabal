@@ -4,7 +4,7 @@
     <div class="row">
       <div class="offset-lg-2 col-lg-8 mt-3" align="center">
         <div class="col-lg-10 w-full">
-          <div class="card shadow-xl h-[200px]">
+          <div class="card shadow-xl">
             <div class="row">
               <div class="col-12 p-5">
                 <h2 class="text-[24px] leading-[2.50rem]" align="left">
@@ -23,6 +23,8 @@
                   only. The page was initially made in react so I migrated it to
                   vue while keeping the design.
                 </p>
+                <br />
+                <p align="left">Tech: QuasarJS (Vue)</p>
               </div>
             </div>
           </div>
@@ -32,7 +34,7 @@
     <div class="row">
       <div class="offset-lg-2 col-lg-8 mt-3" align="center">
         <div class="col-lg-10 w-full">
-          <div class="card shadow-xl h-[200px]">
+          <div class="card shadow-xl">
             <div class="row">
               <div class="col-12 p-5">
                 <h2 class="text-[24px] leading-[2.50rem]" align="left">
@@ -45,6 +47,8 @@
                   has an admin dashboard that manages zoning officer accounts
                   and logs their activity.
                 </p>
+                <br />
+                <p align="left">Tech: Laravel, Postgresql</p>
               </div>
             </div>
           </div>
@@ -54,7 +58,7 @@
     <div class="row">
       <div class="offset-lg-2 col-lg-8 mt-3" align="center">
         <div class="col-lg-10 w-full">
-          <div class="card shadow-xl h-[200px]">
+          <div class="card shadow-xl">
             <div class="row">
               <div class="col-12 p-5">
                 <h2 class="text-[24px] leading-[2.50rem]" align="left">
@@ -65,6 +69,8 @@
                   A lending management web application that's intended to only
                   work locally on the client's computer.
                 </p>
+                <br />
+                <p align="left">Tech: Laravel, MariaDB</p>
               </div>
             </div>
           </div>
@@ -74,7 +80,7 @@
     <div class="row">
       <div class="offset-lg-2 col-lg-8 mt-3" align="center">
         <div class="col-lg-10 w-full">
-          <div class="card shadow-xl h-[200px]">
+          <div class="card shadow-xl">
             <div class="row">
               <div class="col-12 p-5">
                 <h2 class="text-[24px] leading-[2.50rem]" align="left">
@@ -85,6 +91,8 @@
                   A freelancing website that lets you post jobs as a client and
                   apply for one as a freelancer.
                 </p>
+                <br />
+                <p align="left">Tech: Laravel, MariaDB</p>
               </div>
             </div>
           </div>

@@ -61,7 +61,7 @@
             <h4><strong>Backend</strong></h4>
             <p>ExpressJS, Laravel</p>
             <h4><strong>Frontend</strong></h4>
-            <p>JQuery + Bootstrap, QuasarJS + DaisyUI [HTML/CSS]</p>
+            <p>JQuery + Bootstrap, QuasarJS (Vue) + DaisyUI [HTML/CSS]</p>
             <h4><strong>Database</strong></h4>
             <p>MariaDB, IndexedDB (DexieJS)</p>
             <h4><strong>Web Server</strong></h4>
