@@ -24,7 +24,7 @@
                   vue while keeping the design.
                 </p>
                 <br />
-                <p align="left">Tech: QuasarJS (Vue)</p>
+                <p align="left">Tech: QuasarJS (Vue) + DaisyUI</p>
               </div>
             </div>
           </div>
@@ -48,7 +48,9 @@
                   and logs their activity.
                 </p>
                 <br />
-                <p align="left">Tech: Laravel, Postgresql</p>
+                <p align="left">
+                  Tech: Laravel, JQuery + Bootstrap, Postgresql
+                </p>
               </div>
             </div>
           </div>
@@ -70,7 +72,7 @@
                   work locally on the client's computer.
                 </p>
                 <br />
-                <p align="left">Tech: Laravel, MariaDB</p>
+                <p align="left">Tech: Laravel, JQuery + Bootstrap, MariaDB</p>
               </div>
             </div>
           </div>
@@ -86,13 +88,13 @@
                 <h2 class="text-[24px] leading-[2.50rem]" align="left">
                   <strong>Wrupup.ph</strong>
                 </h2>
-                <p class="p-0" align="left"><small>2020</small></p>
+                <p class="p-0" align="left"><small>2019</small></p>
                 <p align="left">
                   A freelancing website that lets you post jobs as a client and
                   apply for one as a freelancer.
                 </p>
                 <br />
-                <p align="left">Tech: Laravel, MariaDB</p>
+                <p align="left">Tech: Laravel, JQuery + Bootstrap, MariaDB</p>
               </div>
             </div>
           </div>

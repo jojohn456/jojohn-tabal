@@ -29,7 +29,9 @@
                   dates.
                 </p>
                 <br />
-                <p align="left">Tech: QuasarJS (Vue), IndexedDB (DexieJS)</p>
+                <p align="left">
+                  Tech: QuasarJS (Vue) + DaisyUI, IndexedDB (DexieJS)
+                </p>
               </div>
             </div>
           </div>
