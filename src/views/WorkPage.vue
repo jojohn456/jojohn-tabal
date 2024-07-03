@@ -45,7 +45,9 @@
                   A system that processes zoning requests and generates a
                   write-protected word file for the project assessment. It also
                   has an admin dashboard that manages zoning officer accounts
-                  and logs their activity.
+                  and logs their activity. As the sole developer, I worked on
+                  both the frontend and the backend of the system. It was made
+                  during my stay in the public service.
                 </p>
                 <br />
                 <p align="left">
@@ -69,7 +71,8 @@
                 <p class="p-0" align="left"><small>2020</small></p>
                 <p align="left">
                   A lending management web application that's intended to only
-                  work locally on the client's computer.
+                  work locally on the client's computer. I worked on both the
+                  frontend and the backend of the system.
                 </p>
                 <br />
                 <p align="left">Tech: Laravel, JQuery + Bootstrap, MariaDB</p>
@@ -91,7 +94,8 @@
                 <p class="p-0" align="left"><small>2019</small></p>
                 <p align="left">
                   A freelancing website that lets you post jobs as a client and
-                  apply for one as a freelancer.
+                  apply for one as a freelancer. As a junior web developer, I
+                  worked on both the frontend and the backend of the system.
                 </p>
                 <br />
                 <p align="left">Tech: Laravel, JQuery + Bootstrap, MariaDB</p>

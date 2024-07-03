@@ -8,6 +8,37 @@
             <div class="row">
               <div class="col-12 p-5">
                 <h2 class="text-[24px] leading-[2.50rem]" align="left">
+                  <strong>Neki-Neko</strong>
+                  &nbsp;<a
+                    href="https://github.com/jojohn456/Neki"
+                    target="_blank"
+                    ><i class="bi-github w-[20px]"></i
+                  ></a>
+                </h2>
+                <p class="p-0" align="left"><small>2024</small></p>
+                <p align="left">
+                  An all-in-one business app built on a microservice
+                  architechture. This app will also serve as a tool for our
+                  family business and for project showcase which will make the
+                  server cost much more worth it.
+                </p>
+                <br />
+                <p align="left">
+                  Tech: Laravel, QuasarJS (Vue) + DaisyUI, NGINX, MariaDB
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="offset-lg-2 col-lg-8 mt-3" align="center">
+        <div class="col-lg-10 w-full">
+          <div class="card shadow-xl">
+            <div class="row">
+              <div class="col-12 p-5">
+                <h2 class="text-[24px] leading-[2.50rem]" align="left">
                   <strong>Piggy</strong>
                   &nbsp;<a
                     href="https://github.com/jojohn456/piggy"
@@ -31,6 +62,40 @@
                 <br />
                 <p align="left">
                   Tech: QuasarJS (Vue) + DaisyUI, IndexedDB (DexieJS)
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="offset-lg-2 col-lg-8 mt-3" align="center">
+        <div class="col-lg-10 w-full">
+          <div class="card shadow-xl">
+            <div class="row">
+              <div class="col-12 p-5">
+                <h2 class="text-[24px] leading-[2.50rem]" align="left">
+                  <strong>Password-Manager</strong>
+                  &nbsp;<a
+                    href="https://github.com/jojohn456/Password-Manager"
+                    target="_blank"
+                    ><i class="bi-github w-[20px]"></i
+                  ></a>
+                </h2>
+                <p class="p-0" align="left"><small>2020</small></p>
+                <p align="left">
+                  An aptly named password manager web application, designed in a
+                  monolithic kind of architechture, utilizing vue inside of
+                  laravel. As the name of the application suggest, it stores
+                  user credentials like username and passwords which is
+                  protected by a username/email and a master password. It was
+                  hosted at some point as my project showcase but the server
+                  cost didn't align with its usefulness.
+                </p>
+                <br />
+                <p align="left">
+                  Tech: Laravel + Vue + BootstrapVue, Apache, MariaDB
                 </p>
               </div>
             </div>
