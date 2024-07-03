@@ -8,7 +8,7 @@
             <div class="row">
               <div class="col-12 p-5">
                 <h2 class="text-[24px] leading-[2.50rem]" align="left">
-                  <strong>Neki-Neko</strong>
+                  <strong>Neki-Neko (In-Progress)</strong>
                   &nbsp;<a
                     href="https://github.com/jojohn456/Neki"
                     target="_blank"
@@ -20,7 +20,12 @@
                   An all-in-one business app built on a microservice
                   architechture. This app will also serve as a tool for our
                   family business and for project showcase which will make the
-                  server cost much more worth it.
+                  server cost much more worth it. Functionalities will be
+                  separated per module that the user can add into their
+                  individual business. The first modules that I will work on
+                  would be a finance tracker and tabs (short term loan) which I
+                  think is the most useful in our business. Other modules such
+                  as POS and Inventory will follow after.
                 </p>
                 <br />
                 <p align="left">
