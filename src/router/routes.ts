@@ -5,27 +5,29 @@ const routes: RouteRecordRaw[] = [
     path: '/',
     component: () => import('layouts/MainLayout.vue'),
     children: [
-      { path: '', component: () => import('src/views/IndexPage.vue') },
+      { path: '', component: () => import('src/views/index_page.vue') },
     ],
   },
   {
     path: '/projects',
     component: () => import('layouts/MainLayout.vue'),
     children: [
-      { path: '', component: () => import('src/views/ProjectsPage.vue') },
+      { path: '', component: () => import('src/views/project_page.vue') },
     ],
   },
   {
-    path: '/work',
+    path: '/freelance',
     component: () => import('layouts/MainLayout.vue'),
-    children: [{ path: '', component: () => import('src/views/WorkPage.vue') }],
+    children: [
+      { path: '', component: () => import('src/views/freelance_page.vue') },
+    ],
   },
 
   // Always leave this as last one,
   // but you can also remove it
   {
     path: '/:catchAll(.*)*',
-    component: () => import('src/views/ErrorNotFound.vue'),
+    component: () => import('src/views/error404.vue'),
   },
 ];
 

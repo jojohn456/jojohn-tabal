@@ -51,31 +51,10 @@
         </div>
       </div>
     </div>
-    <div class="row pb-4">
-      <div class="offset-lg-2 col-lg-8 w-full p-1">
-        <div class="card bg-100 shadow-xl">
-          <div class="card-body">
-            <h2 class="card-title">Tech Stack</h2>
-            <h4><strong>Programming Language</strong></h4>
-            <p>PHP, Javascript, Kotlin (Learning)</p>
-            <h4><strong>Backend</strong></h4>
-            <p>ExpressJS, Laravel</p>
-            <h4><strong>Frontend</strong></h4>
-            <p>JQuery + Bootstrap, QuasarJS (Vue) + DaisyUI [HTML/CSS]</p>
-            <h4><strong>Database</strong></h4>
-            <p>MariaDB, IndexedDB (DexieJS)</p>
-            <h4><strong>Web Server</strong></h4>
-            <p>Digital Ocean, Ubuntu, Nginx</p>
-          </div>
-        </div>
-      </div>
-    </div>
   </q-page>
 </template>
 
-<style scoped>
-@import 'bootstrap-icons/font/bootstrap-icons.css';
-</style>
+<style scoped></style>
 
 <script lang="ts">
 import { defineComponent } from 'vue';
