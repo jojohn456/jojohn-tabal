@@ -24,10 +24,11 @@
               </a>
             </strong>
           </h2>
-          <p class="p-0 text-start"><small>2026</small></p>
-          <p class="text-justify">A patient information system</p>
+          <p class="text-start"><small>2026</small></p>
+          <p class="text-start">A patient information system</p>
           <p class="mt-2 text-start">
-            Tech: ExpressJS, QuasarJS (Vue) + DaisyUI, NGINX, MariaDB
+            Tech: ExpressJS, QuasarJS (Vue) + DaisyUI, NGINX, App
+            Cache/Memcached, MariaDB
           </p>
         </div>
       </div>
@@ -69,15 +70,15 @@
               </a>
             </strong>
           </h2>
-          <p class="p-0"><small>2024</small></p>
-          <p class="text-justify">
+          <p class="text-start"><small>2024</small></p>
+          <p class="text-start">
             A piggery management mobile application for our piggery business.
             One of its functionality is calculate the sow timecycles when the
             mom pigs goes into heat, when to inject the vitamins and when it
             goes into labor (farrowing). It also notifies the user via phone
             notification during the respective dates and totally works offline.
           </p>
-          <p class="mt-2">
+          <p class="mt-2 text-start">
             Tech: QuasarJS (Vue) + DaisyUI, IndexedDB (DexieJS)
           </p>
         </div>

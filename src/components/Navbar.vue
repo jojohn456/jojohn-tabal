@@ -9,7 +9,7 @@
           <ul class="menu menu-horizontal px-1">
             <li><a @click="$router.push('/')">Home</a></li>
             <li><a @click="$router.push('/projects')">Projects</a></li>
-            <li><a @click="$router.push('/freelance')">Freelance</a></li>
+            <li><a @click="$router.push('/work')">Work</a></li>
           </ul>
         </div>
       </div>
